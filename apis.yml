@@ -1,0 +1,32 @@
+aid: shrtcode
+name: Shrtcode
+description: "URl Shortener with multiple Domains"
+url: https://shrtco.de/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Shrtcode
+    description: "URl Shortener with multiple Domains"
+    humanURL: https://shrtco.de/docs
+    baseURL: https://shrtco.de/docs
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://shrtco.de/docs
+common:
+  - type: Website
+    url: https://shrtco.de/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
