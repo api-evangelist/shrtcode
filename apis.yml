@@ -39,7 +39,6 @@ apis:
   - name: Shrtcode
     description: "URl Shortener with multiple Domains"
     humanURL: https://shrtco.de/docs
-    baseURL: https://shrtco.de/docs
     tags:
       - URL Shorteners
     properties:
